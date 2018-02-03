@@ -8,7 +8,7 @@ While this test case app performs acceptably well on a Snapdragon 805, as soon a
 
 Discussion
 ----------
-Reasons for the apparent inefficiency and slow drawing performance are discussed [in this StackOverflow question]().
+Reasons for the apparent inefficiency and slow drawing performance are discussed [in this StackOverflow question](https://stackoverflow.com/questions/48599124/why-ha-canvas-is-unable-to-redraw-300-lines-every-frame).
 
 Pre-requisites
 ----------
